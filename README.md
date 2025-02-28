@@ -13,7 +13,7 @@ This repository serves as a collection of my programming exercises and assignmen
 - Functions
 - Arrays
 - Strings
-- Pointers (if applicable)
+- Pointers 
 #### 🤝 Contributions
 This repository is primarily for personal reference and learning. However, feel free to raise issues or suggest improvements!
 
