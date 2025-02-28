@@ -12,7 +12,6 @@ This repository serves as a collection of my programming exercises and assignmen
 - Loops (for, while, do-while)
 - Functions
 - Arrays
-- Strings
 - Pointers 
 #### 🤝 Contributions
 This repository is primarily for personal reference and learning. However, feel free to raise issues or suggest improvements!
