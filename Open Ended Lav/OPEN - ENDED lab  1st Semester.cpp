@@ -88,7 +88,7 @@ double selectMenuItem(MenuItem menu[], int size) {
 // Function to calculate final bill
 double calculateFinalBill(double subtotal) {
     const double TAX_RATE = 10.0;
-    const double DISCOUNT_RATE = 20.0;
+    const double DISCOUNT_RATE = 200.0;
     double discount = (subtotal > 2000) ? (subtotal * DISCOUNT_RATE / 100) : 0;
     double total = subtotal - discount;
     total += total * TAX_RATE / 100;
